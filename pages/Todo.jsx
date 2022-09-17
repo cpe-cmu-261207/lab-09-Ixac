@@ -6,7 +6,7 @@ import {
   IconArrowDown,
 } from "@tabler/icons";
 
-export default function Todolist(props) {
+export default function Todo(props) {
   const [isMouseOver, setIsMouseOver] = useState(false);
 
   return (
