@@ -121,7 +121,8 @@ export default function Contact() {
                       <div className="concon">
                         <a
                           style={{ fontSize: "12px" }}
-                          href="https://www.facebook.com/haris.saema/" rel="noreferrer"
+                          href="https://www.facebook.com/haris.saema/"
+                          rel="noreferrer"
                           target="_blank"
                         >
                           https://www.facebook.com/haris.saema/
